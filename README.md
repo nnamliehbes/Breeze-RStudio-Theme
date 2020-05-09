@@ -13,4 +13,4 @@ Tested on KDE neon Testing Edition 5.18.5 and RStudio 1.2.1335.
 - [ ] change / or match code-colors and font-weights of both themes
 
 ![Screenshot](BreezeDefault.png)
-![Screenshot](BreezeDark.png)
+![Screenshot](Breeze_Dark.png)
